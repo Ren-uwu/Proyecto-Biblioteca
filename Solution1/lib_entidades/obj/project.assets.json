@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_entidades\\lib_entidades.csproj",
+      "projectUniqueName": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_entidades\\lib_entidades.csproj",
       "projectName": "lib_entidades",
-      "projectPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_entidades\\lib_entidades.csproj",
+      "projectPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_entidades\\lib_entidades.csproj",
       "packagesPath": "C:\\Users\\Ren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_entidades\\obj\\",
+      "outputPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ren\\AppData\\Roaming\\NuGet\\NuGet.Config",

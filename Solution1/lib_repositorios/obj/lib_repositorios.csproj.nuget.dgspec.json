@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_repositorios\\lib_repositorios.csproj": {}
+    "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_repositorios\\lib_repositorios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_entidades\\lib_entidades.csproj": {
+    "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_entidades\\lib_entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_entidades\\lib_entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_entidades\\lib_entidades.csproj",
         "projectName": "lib_entidades",
-        "projectPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_entidades\\lib_entidades.csproj",
+        "projectPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_entidades\\lib_entidades.csproj",
         "packagesPath": "C:\\Users\\Ren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_entidades\\obj\\",
+        "outputPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_repositorios\\lib_repositorios.csproj": {
+    "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_repositorios\\lib_repositorios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_repositorios\\lib_repositorios.csproj",
+        "projectUniqueName": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_repositorios\\lib_repositorios.csproj",
         "projectName": "lib_repositorios",
-        "projectPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_repositorios\\lib_repositorios.csproj",
+        "projectPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_repositorios\\lib_repositorios.csproj",
         "packagesPath": "C:\\Users\\Ren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_repositorios\\obj\\",
+        "outputPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_repositorios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_entidades\\lib_entidades.csproj": {
-                "projectPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_entidades\\lib_entidades.csproj"
+              "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_entidades\\lib_entidades.csproj": {
+                "projectPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_entidades\\lib_entidades.csproj"
               }
             }
           }

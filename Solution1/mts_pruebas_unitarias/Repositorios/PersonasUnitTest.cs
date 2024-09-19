@@ -17,7 +17,7 @@ namespace mts_pruebas_unitarias.Repositorios
         public PersonasUnitTest()
         {
             conexion = new Conexion();
-            conexion!.StringConnection = "server=DESKTOP-7TTVOPR\\SQLEXPRESS;database=Db_Biblioteca;uid=sa;pwd=pan;TrustServerCertificate=true;";
+            conexion!.StringConnection = "server=..;database=Db_Biblioteca;uid=sa;pwd=pan;TrustServerCertificate=true;";
             iRepositorio = new PersonasRepositorio(conexion);
         }
 

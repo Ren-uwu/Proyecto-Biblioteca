@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WjiTv4tudGc=",
+  "dgSpecHash": "K4hx+ttjNl0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\lib_repositorios\\lib_repositorios.csproj",
+  "projectFilePath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca - copia\\Solution1\\lib_repositorios\\lib_repositorios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ren\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ren\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
