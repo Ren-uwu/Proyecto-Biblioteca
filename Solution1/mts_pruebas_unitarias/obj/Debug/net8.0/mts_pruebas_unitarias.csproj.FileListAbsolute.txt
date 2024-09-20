@@ -161,3 +161,4 @@ C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\mts_pruebas_unitari
 C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\mts_pruebas_unitarias\obj\Debug\net8.0\mts_pruebas_unitarias.pdb
 C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\mts_pruebas_unitarias\obj\Debug\net8.0\mts_pruebas_unitarias.genruntimeconfig.cache
 C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\mts_pruebas_unitarias\obj\Debug\net8.0\ref\mts_pruebas_unitarias.dll
+C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\mts_pruebas_unitarias\obj\Debug\net8.0\mts_pruebas_unitarias.sourcelink.json

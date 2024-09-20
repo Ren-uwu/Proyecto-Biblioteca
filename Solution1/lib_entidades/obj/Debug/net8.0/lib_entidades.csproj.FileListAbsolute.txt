@@ -9,3 +9,4 @@ C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\lib_entidades\obj\D
 C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
 C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
 C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll
+C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\lib_entidades\obj\Debug\net8.0\lib_entidades.sourcelink.json

@@ -3,6 +3,7 @@ using lib_repositorios;
 using lib_repositorios.Implementaciones;
 using lib_repositorios.Interfaces;
 using mst_pruebas_unitarias.Nucleo;
+using mst_unittests.Nucleo;
 
 namespace mts_pruebas_unitarias.Repositorios
 {
@@ -17,7 +18,7 @@ namespace mts_pruebas_unitarias.Repositorios
         public PersonasUnitTest()
         {
             conexion = new Conexion();
-            conexion!.StringConnection = "server=..;database=Db_Biblioteca;uid=sa;pwd=pan;TrustServerCertificate=true;";
+            conexion!.StringConnection = ConfiguracionHelper.ObtenerValor("ConectionString");
             iRepositorio = new PersonasRepositorio(conexion);
         }
 

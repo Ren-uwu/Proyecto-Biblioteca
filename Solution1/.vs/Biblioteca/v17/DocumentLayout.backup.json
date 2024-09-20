@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA005EB-6E36-4CDE-88AF-0C01793AA521}|mts_pruebas_unitarias\\mts_pruebas_unitarias.csproj|c:\\users\\ren\\documents\\code\\c#\\proyecto biblioteca\\solution1\\mts_pruebas_unitarias\\repositorios\\personasunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA005EB-6E36-4CDE-88AF-0C01793AA521}|mts_pruebas_unitarias\\mts_pruebas_unitarias.csproj|solutionrelative:mts_pruebas_unitarias\\repositorios\\personasunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA005EB-6E36-4CDE-88AF-0C01793AA521}|mts_pruebas_unitarias\\mts_pruebas_unitarias.csproj|c:\\users\\ren\\documents\\code\\c#\\proyecto biblioteca\\solution1\\mts_pruebas_unitarias\\nucleo\\configuracionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA005EB-6E36-4CDE-88AF-0C01793AA521}|mts_pruebas_unitarias\\mts_pruebas_unitarias.csproj|solutionrelative:mts_pruebas_unitarias\\nucleo\\configuracionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA005EB-6E36-4CDE-88AF-0C01793AA521}|mts_pruebas_unitarias\\mts_pruebas_unitarias.csproj|c:\\users\\ren\\documents\\code\\c#\\proyecto biblioteca\\solution1\\mts_pruebas_unitarias\\nucleo\\entidadeshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA005EB-6E36-4CDE-88AF-0C01793AA521}|mts_pruebas_unitarias\\mts_pruebas_unitarias.csproj|solutionrelative:mts_pruebas_unitarias\\nucleo\\entidadeshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\mts_pruebas_unitarias\\Repositorios\\PersonasUnitTest.cs",
+              "RelativeDocumentMoniker": "mts_pruebas_unitarias\\Repositorios\\PersonasUnitTest.cs",
+              "ToolTip": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\mts_pruebas_unitarias\\Repositorios\\PersonasUnitTest.cs",
+              "RelativeToolTip": "mts_pruebas_unitarias\\Repositorios\\PersonasUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:28:40.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfiguracionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\mts_pruebas_unitarias\\Nucleo\\ConfiguracionHelper.cs",
+              "RelativeDocumentMoniker": "mts_pruebas_unitarias\\Nucleo\\ConfiguracionHelper.cs",
+              "ToolTip": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\mts_pruebas_unitarias\\Nucleo\\ConfiguracionHelper.cs",
+              "RelativeToolTip": "mts_pruebas_unitarias\\Nucleo\\ConfiguracionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:28:01.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntidadesHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\mts_pruebas_unitarias\\Nucleo\\EntidadesHelper.cs",
+              "RelativeDocumentMoniker": "mts_pruebas_unitarias\\Nucleo\\EntidadesHelper.cs",
+              "ToolTip": "C:\\Users\\Ren\\Documents\\code\\C#\\Proyecto Biblioteca\\Solution1\\mts_pruebas_unitarias\\Nucleo\\EntidadesHelper.cs",
+              "RelativeToolTip": "mts_pruebas_unitarias\\Nucleo\\EntidadesHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:27:29.731Z",
+              "EditorCaption": ""
             }
           ]
         }

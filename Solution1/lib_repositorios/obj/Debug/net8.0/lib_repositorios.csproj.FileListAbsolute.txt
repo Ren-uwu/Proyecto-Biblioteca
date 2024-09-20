@@ -15,3 +15,4 @@ C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\lib_repositorios\ob
 C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
 C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\lib_repositorios\obj\Debug\net8.0\lib_repositorios.genruntimeconfig.cache
 C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll
+C:\Users\Ren\Documents\code\C#\Proyecto Biblioteca\Solution1\lib_repositorios\obj\Debug\net8.0\lib_repositorios.sourcelink.json
